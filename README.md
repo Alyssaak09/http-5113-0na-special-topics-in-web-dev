@@ -1,4 +1,4 @@
-# Special Topics Web Development 
+# Special Topics in Web Development 
 
 **Course Code**-HTTP5113-0NA
 
